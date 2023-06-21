@@ -15,7 +15,7 @@ Le projet de réaliser un algorithme qui détecte des faux billets de banque à 
  <br><br>Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
  <br>Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
 
- <br><br>Les données sont des fichiers csv fournis par l'entreprise.
+ <br>Les données sont des fichiers csv fournis par l'entreprise.
 
 ## <u>1.2 Objectifs</u>
 Les objectifs visés par ce projet sont les suivants : <br>
