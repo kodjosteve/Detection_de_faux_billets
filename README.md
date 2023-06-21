@@ -26,7 +26,7 @@ Les objectifs visés par ce projet sont les suivants : <br>
 
 ## <u>Conception et testing de l'algorithme</u>
 Le Jupyter Notebook contenant la conception de l'algorithme et les résultats est disponible [ici](https://github.com/kodjosteve/Detection_de_faux_billets/blob/main/Algorithme_detection_faux_billets.ipynb)<br>
-La capture d'écran ci-dessous présente les résultats de l'analyse :<br><br>
+<br>La capture d'écran ci-dessous présente les résultats de l'analyse :<br><br>
 #### Distributions des variables <br>
 ![](https://github.com/kodjosteve/Detection_de_faux_billets/blob/main/R%C3%A9sultats/distributions_variables.png)
 #### Matrice de confusion <br>
